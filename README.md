@@ -13,7 +13,7 @@
 
 1. Create a CLI app which takes name, unit test marks, pre final marks, final marks of 5 students. And then print who has the highest marks. What if I ask you to print the average as well?
 
-1. Create a web app with a button loaded. Show a text `loading...` on a web app. However, hide it if I click on the button loaded.
+ 1. Create a web app with a button loaded. Show a text `loading...` on a web app. However, hide it if I click on the button loaded.
 
 1. Here's an API. Create a web app to call this API with your full name and print the response. This could be extended where we ask you to do something with the response. Like add a text, or capitalise etc.
 
@@ -33,7 +33,7 @@ Someone can ask to make the submit button disabled. Some can ask to make the inp
 1. Create two objects with name, age, and yuga as `Ram, 25, Treta. Krishna, 31, Dwapar`. 
 Write a function which takes two objects and return the person with more age.
 
-1. Create two objects with name, power, and yuga as Ram, 2500, Treta. Krishna, 2325, Dwapar. Write a function which takes two objects and return the person with more `power`. 
+ 1. Create two objects with name, power, and yuga as Ram, 2500, Treta. Krishna, 2325, Dwapar. Write a function which takes two objects and return the person with more `power`. 
 
 1. Create two objects with name, power, and yuga as Ram, 2500, Treta. Krishna, 2325, Dwapar. 
 Say if every character in name is worth 35 power points.
